@@ -1,1 +1,1 @@
-# 3rdYearSoftwareDevSemesterProject
+# 3rdYearMobileAppsDevProject
